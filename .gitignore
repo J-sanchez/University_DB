@@ -2,3 +2,4 @@ node_modules
 _tests_
 .env
 package-lock.json
+config/connection.js
